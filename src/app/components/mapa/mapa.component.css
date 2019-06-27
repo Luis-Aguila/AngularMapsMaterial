@@ -1,0 +1,5 @@
+/*Se le da un tamaño al mapa...si no se le asigna uno, no se visualizará*/
+
+agm-map {
+    height: 600px;
+}
